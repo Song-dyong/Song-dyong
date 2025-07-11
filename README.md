@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   </p>
 </div>
 
